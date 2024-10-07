@@ -85,7 +85,4 @@ The insights gained from this analysis should guide future public health policie
 
 ---
 
-## 5. Streamlit Deployment
-The COPD prediction application has been successfully deployed using Streamlit. You can access the app at the following link: [Streamlit App](https://copd-prediction-zuy3yuivcbggeh4qnecftx.streamlit.app/).
-
----
+-
